@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "id": "634e",
+      "name": "laptop",
+      "price": "55300",
+      "disc": "first product"
+    },
+    {
+      "id": "1fb3",
+      "name": "tv",
+      "price": "20500",
+      "disc": "second product"
+    }
+  ]
+}
